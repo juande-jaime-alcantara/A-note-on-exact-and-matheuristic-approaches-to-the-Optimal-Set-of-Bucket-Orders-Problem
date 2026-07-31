@@ -4,11 +4,11 @@
 
 <body>
 
-<h1>Exact and matheuristic approaches for the Optimal Set of Bucket Orders Problem — Supporting Material</h1>
+<h1>A note on exact and matheuristic approaches to the Optimal Set of Bucket Orders Problem — Supporting Material</h1>
 
 <p>This repository provides the supplementary material for the article:</p>
 
-<p><strong><em>“Exact and matheuristic approaches for the Optimal Set of Bucket Orders Problem”</em></strong></p>
+<p><strong><em>“A note on exact and matheuristic approaches to the Optimal Set of Bucket Orders Problem”</em></strong></p>
 
 <p><strong>Authors</strong><br>
 Juan A. Aledo – Universidad de Castilla-La Mancha (UCLM), Spain<br>
