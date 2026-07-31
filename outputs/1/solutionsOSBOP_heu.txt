@@ -1,0 +1,1092 @@
+inputs/4-1.dat
+n: 3
+g: 1
+
+COMPONENT 1
+Bucket order
+1 2 | 3
+Weight
+1
+
+Total objective value: 0.57831
+
+inputs/4-2.dat
+n: 3
+g: 1
+
+COMPONENT 1
+Bucket order
+1 2 3
+Weight
+1
+
+Total objective value: 0.66436
+
+inputs/2-1.dat
+n: 4
+g: 1
+
+COMPONENT 1
+Bucket order
+1 2 3 | 4
+Weight
+1
+
+Total objective value: 1.46358
+
+inputs/2-2.dat
+n: 5
+g: 1
+
+COMPONENT 1
+Bucket order
+2 3 4 | 1 5
+Weight
+1
+
+Total objective value: 1.43033
+
+inputs/4-2.dat
+n: 3
+g: 2
+
+COMPONENT 1
+Bucket order
+1 2 3
+Weight
+0.624768933
+
+COMPONENT 2
+Bucket order
+1 3 | 2
+Weight
+0.375231067
+
+Total objective value: 0.18039
+
+inputs/4-1.dat
+n: 3
+g: 2
+
+COMPONENT 1
+Bucket order
+1 2 | 3
+Weight
+0.6807228916
+
+COMPONENT 2
+Bucket order
+1 2 3
+Weight
+0.3192771084
+
+Total objective value: 0.13253
+
+inputs/2-1.dat
+n: 4
+g: 2
+
+COMPONENT 1
+Bucket order
+1 2 3 | 4
+Weight
+0.8322580645
+
+COMPONENT 2
+Bucket order
+3 4 | 1 | 2
+Weight
+0.1677419355
+
+Total objective value: 0.4216
+
+inputs/2-2.dat
+n: 5
+g: 2
+
+COMPONENT 1
+Bucket order
+2 3 4 | 1 5
+Weight
+0.8639053254
+
+COMPONENT 2
+Bucket order
+1 | 2 3 4 5
+Weight
+0.1360946746
+
+Total objective value: 0.45864
+
+inputs/4-2.dat
+n: 3
+g: 3
+
+COMPONENT 1
+Bucket order
+1 | 2 3
+Weight
+0.4934003771
+
+COMPONENT 2
+Bucket order
+2 3 | 1
+Weight
+0.2954116908
+
+COMPONENT 3
+Bucket order
+3 | 1 | 2
+Weight
+0.2111879321
+
+Total objective value: 0.0308
+
+inputs/4-1.dat
+n: 3
+g: 3
+
+COMPONENT 1
+Bucket order
+1 2 | 3
+Weight
+0.7289156627
+
+COMPONENT 2
+Bucket order
+1 | 3 | 2
+Weight
+0.1596385542
+
+COMPONENT 3
+Bucket order
+2 | 3 | 1
+Weight
+0.1114457831
+
+Total objective value: 0.01205
+
+inputs/2-1.dat
+n: 4
+g: 3
+
+COMPONENT 1
+Bucket order
+1 2 3 | 4
+Weight
+0.5735829857
+
+COMPONENT 2
+Bucket order
+1 3 | 2 4
+Weight
+0.2586750789
+
+COMPONENT 3
+Bucket order
+3 | 2 | 4 | 1
+Weight
+0.1677419355
+
+Total objective value: 0.24351
+
+inputs/4-1.dat
+n: 3
+g: 4
+
+COMPONENT 1
+Bucket order
+1 | 2 | 3
+Weight
+0.4698795181
+
+COMPONENT 2
+Bucket order
+2 | 1 | 3
+Weight
+0.3704819277
+
+COMPONENT 3
+Bucket order
+3 | 2 | 1
+Weight
+0.1114457831
+
+COMPONENT 4
+Bucket order
+1 | 3 | 2
+Weight
+0.04819277108
+
+Total objective value: 0
+
+inputs/4-2.dat
+n: 3
+g: 4
+
+COMPONENT 1
+Bucket order
+3 | 1 | 2
+Weight
+0.4758013828
+
+COMPONENT 2
+Bucket order
+2 | 1 | 3
+Weight
+0.2954116908
+
+COMPONENT 3
+Bucket order
+1 | 2 3
+Weight
+0.1671904463
+
+COMPONENT 4
+Bucket order
+1 3 | 2
+Weight
+0.0615964802
+
+Total objective value: 0
+
+inputs/2-2.dat
+n: 5
+g: 3
+
+COMPONENT 1
+Bucket order
+2 3 4 | 1 5
+Weight
+0.7590250329
+
+COMPONENT 2
+Bucket order
+1 3 | 2 | 4 5
+Weight
+0.1250329381
+
+COMPONENT 3
+Bucket order
+4 | 2 5 | 1 | 3
+Weight
+0.115942029
+
+Total objective value: 0.15821
+
+inputs/2-1.dat
+n: 4
+g: 4
+
+COMPONENT 1
+Bucket order
+1 2 3 | 4
+Weight
+0.5009647272
+
+COMPONENT 2
+Bucket order
+3 | 1 2 4
+Weight
+0.2520148729
+
+COMPONENT 3
+Bucket order
+1 3 | 2 | 4
+Weight
+0.2052859009
+
+COMPONENT 4
+Bucket order
+2 | 4 | 1 | 3
+Weight
+0.04173449905
+
+Total objective value: 0.0407
+
+inputs/2-2.dat
+n: 5
+g: 4
+
+COMPONENT 1
+Bucket order
+2 3 4 | 1 5
+Weight
+0.7401324619
+
+COMPONENT 2
+Bucket order
+4 | 2 5 | 1 | 3
+Weight
+0.1215805471
+
+COMPONENT 3
+Bucket order
+1 3 | 2 | 4 5
+Weight
+0.1059063091
+
+COMPONENT 4
+Bucket order
+2 | 3 | 1 | 4 5
+Weight
+0.03238068191
+
+Total objective value: 0.03039
+
+inputs/6-4.dat
+n: 14
+g: 1
+
+COMPONENT 1
+Bucket order
+11 | 14 | 12 | 13 | 9 | 10 | 7 | 8 | 5 | 6 | 4 | 3 | 2 | 1
+Weight
+1
+
+Total objective value: 2.66667
+
+inputs/6-3.dat
+n: 14
+g: 1
+
+COMPONENT 1
+Bucket order
+10 | 7 | 5 | 8 | 2 13 | 1 | 4 11 | 14 | 6 | 9 | 3 12
+Weight
+1
+
+Total objective value: 5.66667
+
+inputs/6-4.dat
+n: 14
+g: 2
+
+COMPONENT 1
+Bucket order
+11 | 14 | 12 | 13 | 9 | 10 | 7 | 8 | 5 | 6 | 4 | 3 | 2 | 1
+Weight
+0.7777777778
+
+COMPONENT 2
+Bucket order
+11 | 12 14 | 9 | 13 | 10 | 5 8 | 7 | 6 | 3 4 | 2 | 1
+Weight
+0.2222222222
+
+Total objective value: 0.66667
+
+inputs/6-11.dat
+n: 20
+g: 1
+
+COMPONENT 1
+Bucket order
+12 | 8 | 14 | 17 | 2 10 11 13 | 9 16 | 1 | 6 19 | 5 15 20 | 3 | 4 18 | 7
+Weight
+1
+
+Total objective value: 14.22222
+
+inputs/6-3.dat
+n: 14
+g: 2
+
+COMPONENT 1
+Bucket order
+10 | 7 | 5 | 8 | 2 | 13 | 1 | 4 11 | 14 | 6 9 | 12 | 3
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+10 | 7 | 5 | 13 | 2 8 | 11 | 1 | 4 6 14 | 3 9 | 12
+Weight
+0.3333333333
+
+Total objective value: 2.11111
+
+inputs/6-4.dat
+n: 14
+g: 3
+
+COMPONENT 1
+Bucket order
+11 | 14 | 12 | 13 | 9 | 10 | 7 | 8 | 5 | 6 | 4 | 3 | 2 | 1
+Weight
+0.5555555556
+
+COMPONENT 2
+Bucket order
+11 | 14 | 12 | 9 | 13 | 10 | 5 8 | 7 | 4 6 | 3 | 2 | 1
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+11 | 12 14 | 13 | 9 | 10 | 7 | 8 | 5 6 | 3 4 | 2 | 1
+Weight
+0.2222222222
+
+Total objective value: 0.22222
+
+inputs/6-12.dat
+n: 20
+g: 1
+
+COMPONENT 1
+Bucket order
+20 | 17 18 | 19 | 13 15 16 | 10 | 7 14 | 9 12 | 6 8 | 5 | 11 | 2 | 1 | 4 | 3
+Weight
+1
+
+Total objective value: 5.66667
+
+inputs/6-3.dat
+n: 14
+g: 3
+
+COMPONENT 1
+Bucket order
+10 | 7 | 5 | 8 | 2 | 13 | 1 | 4 11 | 14 | 6 | 9 | 12 | 3
+Weight
+0.5555555556
+
+COMPONENT 2
+Bucket order
+10 | 7 | 5 | 13 | 2 8 | 1 4 11 | 9 14 | 6 | 3 12
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+10 | 7 | 5 8 | 13 | 2 | 11 | 1 | 6 | 14 | 4 | 3 | 9 12
+Weight
+0.2222222222
+
+Total objective value: 0.55556
+
+inputs/6-4.dat
+n: 14
+g: 4
+
+COMPONENT 1
+Bucket order
+11 | 14 | 12 | 13 | 9 | 10 | 7 | 8 | 5 | 6 | 4 | 3 | 2 | 1
+Weight
+0.5555555556
+
+COMPONENT 2
+Bucket order
+11 | 14 | 12 | 13 | 9 | 10 | 8 | 5 | 7 | 4 6 | 3 | 2 | 1
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+11 | 14 | 12 | 9 | 13 | 10 | 7 | 8 | 6 | 5 | 4 | 3 | 2 | 1
+Weight
+0.1111111111
+
+COMPONENT 4
+Bucket order
+11 | 12 | 14 | 9 | 13 | 10 | 5 | 7 | 8 | 6 | 3 | 4 | 2 | 1
+Weight
+0.1111111111
+
+Total objective value: 0
+
+inputs/6-11.dat
+n: 20
+g: 2
+
+COMPONENT 1
+Bucket order
+12 | 8 | 14 | 10 11 17 | 2 13 | 16 | 1 9 | 19 | 5 6 20 | 15 | 3 | 4 18 | 7
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+8 12 14 17 | 2 | 11 13 | 10 | 9 | 16 | 1 6 15 | 19 20 | 5 18 | 3 4 | 7
+Weight
+0.3333333333
+
+Total objective value: 6.11111
+
+inputs/6-18.dat
+n: 24
+g: 1
+
+COMPONENT 1
+Bucket order
+22 | 23 | 20 21 | 24 | 17 19 | 16 | 15 18 | 10 14 | 13 | 7 11 12 | 9 | 6 8 | 3 5 | 4 | 1 | 2
+Weight
+1
+
+Total objective value: 7.66667
+
+inputs/6-12.dat
+n: 20
+g: 2
+
+COMPONENT 1
+Bucket order
+20 | 17 18 | 19 | 13 15 16 | 10 | 7 14 | 9 12 | 8 | 6 | 5 | 11 | 2 | 1 | 4 | 3
+Weight
+0.7777777778
+
+COMPONENT 2
+Bucket order
+17 18 20 | 13 16 19 | 15 | 14 | 7 10 | 9 12 | 6 | 5 8 11 | 1 | 2 | 4 | 3
+Weight
+0.2222222222
+
+Total objective value: 2.44444
+
+inputs/6-3.dat
+n: 14
+g: 4
+
+COMPONENT 1
+Bucket order
+10 | 7 | 5 | 8 | 2 | 13 | 1 11 | 4 6 14 | 9 | 12 | 3
+Weight
+0.4444444444
+
+COMPONENT 2
+Bucket order
+10 | 7 | 5 8 | 13 | 2 | 1 | 4 11 | 14 | 6 | 3 | 9 12
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+10 | 7 | 5 | 13 | 8 | 2 | 1 4 11 | 14 | 6 9 | 3 12
+Weight
+0.2222222222
+
+COMPONENT 4
+Bucket order
+10 | 7 | 5 | 2 | 13 | 8 | 1 | 4 | 9 | 11 | 14 | 6 | 12 | 3
+Weight
+0.1111111111
+
+Total objective value: 0
+
+inputs/6-28.dat
+n: 24
+g: 1
+
+COMPONENT 1
+Bucket order
+24 | 20 | 19 23 | 14 16 | 13 15 21 | 4 9 12 18 22 | 6 8 | 2 5 11 17 | 1 3 7 10
+Weight
+1
+
+Total objective value: 29.77778
+
+inputs/6-18.dat
+n: 24
+g: 2
+
+COMPONENT 1
+Bucket order
+22 | 23 | 20 21 | 24 | 17 19 | 16 | 15 | 18 | 10 14 | 13 | 7 11 12 | 9 | 6 8 | 3 5 | 4 | 1 | 2
+Weight
+0.7777777778
+
+COMPONENT 2
+Bucket order
+22 | 21 23 | 20 24 | 17 | 19 | 16 18 | 14 15 | 11 | 13 | 10 12 | 7 9 | 3 | 8 | 6 | 4 | 5 | 2 | 1
+Weight
+0.2222222222
+
+Total objective value: 2.22222
+
+inputs/6-12.dat
+n: 20
+g: 3
+
+COMPONENT 1
+Bucket order
+20 | 17 18 | 19 | 13 16 | 15 | 10 | 7 14 | 9 12 | 8 | 6 | 5 | 11 | 2 | 1 | 4 | 3
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+18 20 | 17 | 19 | 15 | 13 16 | 14 | 10 | 7 | 12 | 9 | 6 | 5 8 | 1 2 11 | 4 | 3
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+17 | 20 | 15 | 18 | 13 | 16 | 19 | 7 | 10 | 9 | 14 | 12 | 11 | 6 | 8 | 5 | 1 | 2 | 4 | 3
+Weight
+0.1111111111
+
+Total objective value: 0.22222
+
+inputs/6-12.dat
+n: 20
+g: 4
+
+COMPONENT 1
+Bucket order
+20 | 17 18 | 19 | 13 16 | 15 | 10 | 7 14 | 12 | 9 | 8 | 6 | 5 | 11 | 2 | 1 | 4 | 3
+Weight
+0.5555555556
+
+COMPONENT 2
+Bucket order
+20 | 18 | 17 | 19 | 15 | 13 | 16 | 14 | 7 10 | 9 | 12 | 6 8 | 5 | 11 | 2 | 1 | 4 | 3
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+17 18 | 19 | 20 | 16 | 13 | 15 | 10 | 7 | 9 | 14 | 12 | 11 | 6 | 5 8 | 1 | 2 | 4 | 3
+Weight
+0.1111111111
+
+COMPONENT 4
+Bucket order
+20 | 17 | 15 | 18 | 13 16 | 19 | 10 | 7 14 | 9 | 12 | 6 | 5 8 | 1 | 2 | 11 | 4 | 3
+Weight
+0.1111111111
+
+Total objective value: 0
+
+inputs/14-1.dat
+n: 10
+g: 1
+
+COMPONENT 1
+Bucket order
+1 2 3 4 5 6 7 8 10 | 9
+Weight
+1
+
+Total objective value: 13.08851
+
+inputs/6-18.dat
+n: 24
+g: 3
+
+COMPONENT 1
+Bucket order
+22 | 23 | 20 21 | 24 | 17 | 19 | 16 | 15 | 18 | 10 14 | 13 | 7 11 12 | 9 | 6 8 | 3 5 | 4 | 1 | 2
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+22 | 23 | 20 21 | 19 24 | 17 | 16 | 18 | 14 15 | 11 | 13 | 10 | 12 | 7 9 | 3 | 8 | 6 | 4 5 | 2 | 1
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+22 | 21 | 23 | 24 | 20 | 19 | 17 | 18 | 16 | 15 | 14 | 13 | 12 | 10 | 7 | 11 | 9 | 8 | 6 | 4 | 3 | 1 | 5 | 2
+Weight
+0.1111111111
+
+Total objective value: 0.44444
+
+inputs/14-1.dat
+n: 10
+g: 2
+
+COMPONENT 1
+Bucket order
+7 | 1 2 3 4 5 6 8 10 | 9
+Weight
+0.7553796184
+
+COMPONENT 2
+Bucket order
+2 9 | 1 4 5 10 | 3 8 | 6 7
+Weight
+0.2446203816
+
+Total objective value: 4.23122
+
+inputs/6-28.dat
+n: 24
+g: 2
+
+COMPONENT 1
+Bucket order
+24 | 20 | 19 23 | 14 15 16 | 9 13 18 21 22 | 4 | 6 8 11 12 17 | 2 | 1 3 5 7 10
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+20 24 | 19 | 14 21 23 | 13 16 | 15 | 4 12 | 9 22 | 18 | 2 5 6 8 | 10 | 3 11 | 1 7 17
+Weight
+0.3333333333
+
+Total objective value: 12.55556
+
+inputs/6-11.dat
+n: 20
+g: 3
+
+COMPONENT 1
+Bucket order
+12 | 8 | 14 | 2 10 11 17 | 13 | 9 16 | 1 | 6 19 | 5 20 | 15 | 3 | 4 18 | 7
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+8 17 | 14 | 11 12 | 13 | 2 10 | 16 | 1 | 9 | 15 | 20 | 19 | 5 | 6 | 4 18 | 3 | 7
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+12 | 14 | 8 | 13 | 17 | 10 | 11 | 16 | 2 | 6 | 19 | 9 | 15 | 20 | 1 | 18 | 5 | 3 | 4 | 7
+Weight
+0.1111111111
+
+Total objective value: 2.66667
+
+inputs/6-18.dat
+n: 24
+g: 4
+
+COMPONENT 1
+Bucket order
+22 | 23 | 20 21 | 24 | 17 19 | 16 | 15 | 18 | 10 | 14 | 13 | 7 12 | 11 | 9 | 8 | 3 6 | 5 | 4 | 1 2
+Weight
+0.4444444444
+
+COMPONENT 2
+Bucket order
+22 | 23 | 20 | 21 | 24 | 17 | 19 | 16 | 18 | 14 15 | 10 | 11 | 13 | 7 12 | 9 | 6 | 3 | 8 | 4 | 1 5 | 2
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+22 | 21 23 | 20 24 | 17 | 19 | 16 | 15 | 18 | 14 | 13 | 11 | 10 12 | 7 | 9 | 6 8 | 5 | 3 | 4 | 1 | 2
+Weight
+0.2222222222
+
+COMPONENT 4
+Bucket order
+22 | 23 | 21 | 20 | 19 | 24 | 17 | 18 | 16 | 15 | 14 | 13 | 10 | 11 | 12 | 9 | 7 | 8 | 5 | 6 | 4 | 3 | 1 | 2
+Weight
+0.1111111111
+
+Total objective value: 0
+
+inputs/15-48.dat
+n: 10
+g: 1
+
+COMPONENT 1
+Bucket order
+1 | 2 | 3 4 5 6 7 8 9 | 10
+Weight
+1
+
+Total objective value: 13
+
+inputs/15-48.dat
+n: 10
+g: 2
+
+COMPONENT 1
+Bucket order
+1 | 2 | 3 | 4 5 9 | 6 | 7 8 | 10
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+7 | 8 | 4 | 1 | 6 | 9 | 2 | 5 | 3 | 10
+Weight
+0.3333333333
+
+Total objective value: 2
+
+inputs/15-48.dat
+n: 10
+g: 3
+
+COMPONENT 1
+Bucket order
+8 | 1 | 2 | 3 | 4 | 9 | 5 | 6 | 7 | 10
+Weight
+0.3333333333
+
+COMPONENT 2
+Bucket order
+4 | 1 | 6 | 2 | 3 | 5 | 7 | 8 | 9 | 10
+Weight
+0.3333333333
+
+COMPONENT 3
+Bucket order
+7 | 1 | 9 | 2 | 5 | 3 | 4 | 8 | 6 | 10
+Weight
+0.3333333333
+
+Total objective value: 0
+
+inputs/15-48.dat
+n: 10
+g: 4
+
+COMPONENT 1
+Bucket order
+8 | 1 | 2 | 3 | 4 | 9 | 5 | 6 | 7 | 10
+Weight
+0.3333333333
+
+COMPONENT 2
+Bucket order
+4 | 1 | 6 | 2 | 3 | 5 | 7 | 8 | 9 | 10
+Weight
+0.3333333333
+
+COMPONENT 3
+Bucket order
+7 | 1 | 9 | 2 | 5 | 3 | 4 | 8 | 6 | 10
+Weight
+0.3333333333
+
+COMPONENT 4
+Bucket order
+1 2 3 4 5 6 7 8 9 10
+Weight
+0
+
+Total objective value: 0
+
+inputs/14-1.dat
+n: 10
+g: 3
+
+COMPONENT 1
+Bucket order
+1 2 4 5 7 10 | 3 6 8 | 9
+Weight
+0.5728786033
+
+COMPONENT 2
+Bucket order
+7 9 | 2 3 8 | 1 5 6 10 | 4
+Weight
+0.2446203816
+
+COMPONENT 3
+Bucket order
+3 6 8 | 7 | 4 | 1 5 10 | 2 | 9
+Weight
+0.182501015
+
+Total objective value: 2.35526
+
+inputs/6-11.dat
+n: 20
+g: 4
+
+COMPONENT 1
+Bucket order
+12 | 8 | 14 | 10 11 17 | 2 13 | 9 16 | 1 | 6 19 | 20 | 5 | 15 | 3 | 4 18 | 7
+Weight
+0.4444444444
+
+COMPONENT 2
+Bucket order
+8 14 | 11 12 17 | 2 | 13 | 10 | 16 | 1 9 | 19 | 5 15 | 20 | 6 | 3 4 | 18 | 7
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+12 | 8 17 | 14 | 2 | 10 11 | 9 13 16 | 6 | 1 15 20 | 19 | 5 18 | 3 | 4 | 7
+Weight
+0.2222222222
+
+COMPONENT 4
+Bucket order
+12 | 8 | 14 | 13 | 10 | 2 | 17 | 11 | 16 | 1 | 19 | 6 | 5 | 9 | 20 | 18 | 3 | 15 | 4 | 7
+Weight
+0.1111111111
+
+Total objective value: 0.44444
+
+inputs/6-28.dat
+n: 24
+g: 3
+
+COMPONENT 1
+Bucket order
+20 24 | 19 23 | 16 | 14 15 | 9 13 21 | 18 22 | 4 | 6 8 11 12 17 | 2 | 1 3 5 7 10
+Weight
+0.4444444444
+
+COMPONENT 2
+Bucket order
+24 | 20 | 19 | 14 21 23 | 13 | 15 16 | 4 12 | 22 | 9 | 18 | 6 | 2 5 8 10 | 11 | 3 | 7 17 | 1
+Weight
+0.3333333333
+
+COMPONENT 3
+Bucket order
+24 | 20 | 19 23 | 14 | 15 | 16 18 22 | 13 21 | 8 | 4 9 | 1 2 3 5 6 11 12 17 | 7 10
+Weight
+0.2222222222
+
+Total objective value: 7.33333
+
+inputs/14-1.dat
+n: 10
+g: 4
+
+COMPONENT 1
+Bucket order
+2 4 7 10 | 1 3 5 6 8 9
+Weight
+0.4997969955
+
+COMPONENT 2
+Bucket order
+1 5 7 | 2 3 8 | 10 | 4 6 9
+Weight
+0.1985383678
+
+COMPONENT 3
+Bucket order
+3 8 | 1 5 | 6 | 7 9 | 4 | 10 | 2
+Weight
+0.1806739748
+
+COMPONENT 4
+Bucket order
+7 | 1 2 5 6 | 10 | 3 8 | 4 9
+Weight
+0.1209906618
+
+Total objective value: 1.4933
+
+inputs/6-28.dat
+n: 24
+g: 4
+
+COMPONENT 1
+Bucket order
+24 | 20 | 19 23 | 16 | 14 15 | 9 13 21 22 | 18 | 4 | 6 8 11 12 17 | 2 | 1 3 5 7 10
+Weight
+0.4444444444
+
+COMPONENT 2
+Bucket order
+20 24 | 19 | 14 23 | 13 | 15 | 18 | 16 21 22 | 12 | 8 | 4 | 9 | 2 | 11 | 6 | 5 | 17 | 1 3 7 10
+Weight
+0.2222222222
+
+COMPONENT 3
+Bucket order
+24 | 20 | 19 | 14 21 23 | 15 16 | 4 13 | 9 12 | 18 22 | 6 | 2 5 8 10 | 11 | 3 | 1 7 17
+Weight
+0.2222222222
+
+COMPONENT 4
+Bucket order
+20 | 24 | 23 | 16 | 19 | 21 | 9 | 14 | 13 | 15 | 4 | 22 | 8 | 18 | 3 | 5 | 17 | 6 | 2 | 1 | 12 | 10 | 11 | 7
+Weight
+0.1111111111
+
+Total objective value: 3.33333
+
+inputs/15-74.dat
+n: 20
+g: 1
+
+COMPONENT 1
+Bucket order
+2 | 1 3 4 5 6 | 7 8 9 10 11 12 | 13 14 15 16 17 20 | 18 | 19
+Weight
+1
+
+Total objective value: 39.33333
+
+inputs/15-74.dat
+n: 20
+g: 2
+
+COMPONENT 1
+Bucket order
+2 | 3 | 4 5 6 | 1 8 9 | 7 10 12 | 11 13 14 15 17 20 | 18 | 16 19
+Weight
+0.6666666667
+
+COMPONENT 2
+Bucket order
+1 | 6 | 2 | 4 | 5 | 16 | 11 | 13 | 3 | 7 | 20 | 10 | 14 | 12 | 17 | 9 | 18 | 8 | 15 | 19
+Weight
+0.3333333333
+
+Total objective value: 9.33333
+
+inputs/15-74.dat
+n: 20
+g: 3
+
+COMPONENT 1
+Bucket order
+1 | 2 | 3 | 5 | 4 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Weight
+0.3333333333
+
+COMPONENT 2
+Bucket order
+6 | 2 | 4 | 5 | 1 | 16 | 11 | 13 | 3 | 10 | 7 | 20 | 14 | 12 | 17 | 9 | 18 | 8 | 15 | 19
+Weight
+0.3333333333
+
+COMPONENT 3
+Bucket order
+2 | 3 | 6 | 4 | 9 | 5 | 8 | 1 | 12 | 7 | 20 | 17 | 10 | 15 | 11 | 14 | 18 | 13 | 19 | 16
+Weight
+0.3333333333
+
+Total objective value: 0
+
+inputs/15-74.dat
+n: 20
+g: 4
+
+COMPONENT 1
+Bucket order
+1 | 2 | 3 | 5 | 4 | 6 | 7 | 8 | 9 | 10 | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20
+Weight
+0.3333333333
+
+COMPONENT 2
+Bucket order
+6 | 2 | 4 | 5 | 1 | 16 | 11 | 13 | 3 | 10 | 7 | 20 | 14 | 12 | 17 | 9 | 18 | 8 | 15 | 19
+Weight
+0.3333333333
+
+COMPONENT 3
+Bucket order
+2 | 3 | 6 | 4 | 9 | 5 | 8 | 1 | 12 | 7 | 20 | 17 | 10 | 15 | 11 | 14 | 18 | 13 | 19 | 16
+Weight
+0.3333333333
+
+COMPONENT 4
+Bucket order
+1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20
+Weight
+0
+
+Total objective value: 0
+
