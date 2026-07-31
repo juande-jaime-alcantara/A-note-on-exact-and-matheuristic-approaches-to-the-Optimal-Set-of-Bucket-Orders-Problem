@@ -6,6 +6,8 @@
 
 <h1>A note on exact and matheuristic approaches to the Optimal Set of Bucket Orders Problem — Supporting Material</h1>
 
+[![DOI](https://zenodo.org/badge/1317350489.svg)](https://doi.org/10.5281/zenodo.21720842)
+
 <p>This repository provides the supplementary material for the article:</p>
 
 <p><strong><em>“A note on exact and matheuristic approaches to the Optimal Set of Bucket Orders Problem”</em></strong></p>
