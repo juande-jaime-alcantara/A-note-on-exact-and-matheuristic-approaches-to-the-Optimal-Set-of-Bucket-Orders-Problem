@@ -33,10 +33,10 @@ from gurobipy import GRB
 BASE_DIR = Path(__file__).resolve().parent
 
 # Default input, output, summary, and machine-readable warm-start locations.
-DEFAULT_DATAFILE = BASE_DIR / "../inputs/R1.dat"
-DEFAULT_OUTFILE = BASE_DIR / "../outputs/solutionsOSBOP_heu.txt"
-DEFAULT_SUMMARYFILE = BASE_DIR / "../outputs/summaryOSBOP_heu.txt"
-DEFAULT_WARMSTART_DIR = BASE_DIR / "../outputs/warmstarts/OSBOP_heu"
+DEFAULT_DATAFILE = BASE_DIR / "../inputs/2/R1.dat"
+DEFAULT_OUTFILE = BASE_DIR / "../outputs/2/solutionsOSBOP.txt"
+DEFAULT_SUMMARYFILE = BASE_DIR / "../outputs/2/summaryOSBOP.txt"
+DEFAULT_WARMSTART_DIR = BASE_DIR / "../outputs/2/warmstarts/OSBOP"
 
 # Default matheuristic and optimization parameters.
 DEFAULT_NUM_COMPONENTS = 2
