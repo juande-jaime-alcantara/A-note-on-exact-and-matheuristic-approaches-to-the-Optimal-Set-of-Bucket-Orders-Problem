@@ -143,10 +143,10 @@ Pairwise count matrix
 <p>If you use this material, please cite:</p>
 
 <pre><code>@article{aledo2026exact,
-  title   = {A note on exact and matheuristic approaches to the Optimal Set of Bucket Orders Problem},
-  author  = {Aledo, Juan A. and Dom{\'i}nguez, Concepci{\'o}n and Jaime-Alc{\'a}ntara, Juan de Dios and Landete, Mercedes},
-  journal = {Preprint},
-  year    = {2026}
+  title = {A note on exact and matheuristic approaches to the {{Optimal Set of Bucket Orders Problem}}},
+  author = {Aledo, Juan A. and Dom{\'i}nguez, Concepci{\'o}n and {Jaime-Alc{\'a}ntara}, Juan de Dios and Landete, Mercedes},
+  year = 2026,
+  journal = {Preprint}
 }
 </code></pre>
 
